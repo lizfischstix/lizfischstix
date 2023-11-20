@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lizfischstix
-- 👀 I’m interested in EdTech, AI in education
-- 🌱 I’m currently learning full-stack web development
-- 💞️ I’m looking to collaborate on ...not sure yet
+- 👀 I’m interested in EdTech, AI in education..and cats.
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on creating a meaningful contrebution to education technology.
 - 📫 How to reach me ...telepathy?
 
 <!---
